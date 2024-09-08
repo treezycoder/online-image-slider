@@ -2,7 +2,7 @@
   "name": "online-image-slider",
   "version": "0.1.0",
   "private": true,
-  "home": "https://treezycoder.github.io/online-image-slider",
+  "homepage": "https://treezycoder.github.io/online-image-slider",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
